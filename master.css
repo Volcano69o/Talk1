@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.hm {
+    color: aliceblue;
+    font-family: verdana;
+    padding-left: 15px;
+}
+
+header {
+    background-color: rgb(28 28 28/75%);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5px 0px 0px 0px;
+    margin: -15px -8px -8px -8px;
+    }
+
+.hr1 {
+    padding: 0px 0px 0px 0px;
+    color: rgba(20, 20, 20, 0.75);
+}
